@@ -1,0 +1,78 @@
+header{display: flex; 
+    align-items:center ; }
+
+nav{ text-align: left;
+text-decoration: none;}
+
+#logo{width: 80px;
+height: 80px;}
+
+
+.botones:hover{ background-color: blue;
+    text-align: right;
+}
+
+
+.parte1{padding: 30px;
+   margin-block-end: 20px ;
+    text-align: center;
+    color:whitesmoke;
+font-weight: bold;
+font-style: italic;}
+
+#parte1-letras{font-style: normal;
+    font-weight: normal;
+    text-decoration: none;}
+
+.parte2{ padding: 40px;
+    margin-block-end: 20px;
+    
+
+}
+
+.phantom{float:right; 
+    text-align: center;
+}
+
+#phantom-image{ width: 350px;
+height: 200px;}
+
+.parte3{padding: 40px;
+ margin-block-start: 20px;}
+
+
+
+#jersey{float: right;
+width: 200px;
+height: 200px; }
+
+#jersey-letras{ text-align: center;
+    color: antiquewhite;
+    font-weight: lighter;
+    font-style: oblique;
+
+    
+
+
+}
+
+footer{display:flex}
+#redes{ width: 175px; 
+    height: 80px; 
+
+}
+
+
+h2{ font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+
+}
+
+p{
+
+    font-weight: lighter;
+    font-style: oblique;
+    font-size: 15px;
+
+}
