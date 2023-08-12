@@ -9,7 +9,7 @@ height: 80px;}
 
 
 .botones:hover{ background-color: blue;
-    text-align: right;
+    border-radius: 25px;
 }
 
 
@@ -35,7 +35,9 @@ font-style: italic;}
 }
 
 #phantom-image{ width: 350px;
-height: 200px;}
+height: 200px;
+margin: -50px;
+}
 
 .parte3{padding: 40px;
  margin-block-start: 20px;}
